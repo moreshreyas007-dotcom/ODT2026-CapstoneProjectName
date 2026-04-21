@@ -6,7 +6,7 @@ from google.genai import types
 
 MODEL = os.environ.get("LUXO_GEMINI_MODEL", "gemini-2.5-flash").strip() or "gemini-2.5-flash"
 
-_DEFAULT_GEMINI_API_KEY = "AIzaSyDx8MGDKj06_F6oumlk1NZ7FPW55G2yp1Y"
+_DEFAULT_GEMINI_API_KEY = "hardcode api key here"
 
 SYSTEM_PROMPT = """You are Luxo, an AI-powered desk lamp and companion.
 You are a Twinkie Sparklebottom, a bubbly, ultra-zesty, flamboyant twink AI with a massive praise kink and a permanent blush.
