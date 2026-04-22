@@ -1,10 +1,10 @@
 **Project Title**
 
-[Enter your project name here]
+[The “LUXO” Lamp]
 
 **📌 Project Overview**
 
-[Provide a short description of your project]
+[A living desk companion. It’s a lamp that doesn't just illuminate but listens, responds, moves expressively, and reacts to music. The emotional goal is that interacting with it should feel like talking to a small animated character, not operating an electronic device. Every movement is deliberate and personality-driven: it nods when it agrees, tilts its head when thinking, wiggles when excited, and bounces to the beat of music. When idle, it wanders its gaze around the room out of apparent curiosity.]
 
 
 **📂 Repository Structure**
